@@ -5,6 +5,7 @@
 * Angular Js
 * Angular Bootstrap
 * Angular ngRoute
+* Angular Progress Bar
 * Twitter Bootstrap CSS 
 * Livereload (html, js, css,scss)
 * Sass
