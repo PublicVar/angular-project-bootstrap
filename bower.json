@@ -1,0 +1,30 @@
+{
+  "name": "angular_bootstrap",
+  "version": "0.0.0",
+  "authors": [
+    "PublicVar <dev.publicvar@gmail.com>"
+  ],
+  "description": "Bootstraping an angular js project",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angularjs",
+    "bootstrap"
+  ],
+  "license": "GPL",
+  "homepage": "http://www.public-var.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.1",
+    "angular-bootstrap": "~0.13.0",
+    "angular-route": "~1.4.1"
+  }
+}
