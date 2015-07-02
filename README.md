@@ -22,3 +22,7 @@ Install the gulp modules according to package.json
 npm install
 ```
 
+Delete the .git directory
+```
+rm -rf .git
+```
